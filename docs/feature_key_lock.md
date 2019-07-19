@@ -1,5 +1,7 @@
 # Key Lock
 
+[[toc]]
+
 Sometimes you may find yourself needing to hold down a specific key for a long period of time. Key Lock holds down the next key you press for you. Press it again, and it will be released.
 
 Let's say you need to type in ALL CAPS for a few sentences. Hit `KC_LOCK`, and then Shift. Now, Shift will be considered held until you tap it again. You can think of Key Lock as Caps Lock, but supercharged.

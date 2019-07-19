@@ -1,5 +1,7 @@
 # Dynamic Macros: Record and Replay Macros in Runtime
 
+[[toc]]
+
 QMK supports temporary macros created on the fly. We call these Dynamic Macros. They are defined by the user from the keyboard and are lost when the keyboard is unplugged or otherwise rebooted.
 
 You can store one or two macros and they may have a combined total of 128 keypresses. You can increase this size at the cost of RAM.

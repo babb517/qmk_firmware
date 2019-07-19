@@ -1,5 +1,7 @@
 # Grave Escape
 
+[[toc]]
+
 If you're using a 60% keyboard, or any other layout with no F-row, you will have noticed that there is no dedicated Escape key. Grave Escape is a feature that allows you to share the grave key (<code>&#96;</code> and `~`) with Escape.
 
 ## Usage

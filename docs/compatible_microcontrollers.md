@@ -1,5 +1,7 @@
 # Atmel AVR
 
+[[toc]]
+
 QMK should run on any Atmel AVR processor with enough Flash. It has been tested on the following:
 
 * ATmega32U4 ([PJRC Teensy 2.0](http://www.pjrc.com/teensy/))

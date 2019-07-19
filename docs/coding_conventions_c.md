@@ -1,5 +1,7 @@
 # Coding Conventions (C)
 
+[[toc]]
+
 Most of our style is pretty easy to pick up on, but right now it's not entirely consistent. You should match the style of the code surrounding your change, but if that code is inconsistent or unclear use the following guidelines:
 
 * We indent using four (4) spaces (soft tabs)

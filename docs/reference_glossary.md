@@ -1,5 +1,7 @@
 # Glossary of QMK Terms
 
+[[toc]]
+
 ## ARM
 A line of 32-bit MCU's produced by a number of companies, such as Atmel, Cypress, Kinetis, NXP, ST, and TI.
 

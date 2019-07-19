@@ -1,5 +1,7 @@
 # Quantum Hand-Wiring Guide
 
+[[toc]]
+
 Parts list:
 * *x* keyswitches (MX, Matias, Gateron, etc)
 * *x* diodes

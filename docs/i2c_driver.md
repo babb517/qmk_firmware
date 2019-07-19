@@ -1,5 +1,7 @@
 # I2C Master Driver
 
+[[toc]]
+
 The I2C Master drivers used in QMK have a set of common functions to allow portability between MCUs.
 
 ## Available functions

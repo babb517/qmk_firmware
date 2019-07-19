@@ -1,5 +1,7 @@
 # HD44780 LCD Displays
 
+[[toc]]
+
 This is an integration of Peter Fleury's LCD library. This page will explain the basics. [For in depth documentation visit his page.](http://homepage.hispeed.ch/peterfleury/doxygen/avr-gcc-libraries/group__pfleury__lcd.html)
 
 You can enable support for HD44780 Displays by setting the `HD44780_ENABLE` flag in your keyboards `rules.mk` to yes. This will use about 400 KB of extra space.

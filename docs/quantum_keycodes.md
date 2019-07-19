@@ -1,5 +1,7 @@
 # Quantum Keycodes
 
+[[toc]]
+
 Quantum keycodes allow for easier customization of your keymap than the basic ones provide, without having to define custom actions.
 
 All keycodes within quantum are numbers between `0x0000` and `0xFFFF`. Within your `keymap.c` it may look like you have functions and other special cases, but ultimately the C preprocessor will translate those into a single 4 byte integer. QMK has reserved `0x0000` through `0x00FF` for standard keycodes. These are keycodes such as `KC_A`, `KC_1`, and `KC_LCTL`, which are basic keys defined in the USB HID specification.

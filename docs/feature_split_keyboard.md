@@ -1,5 +1,7 @@
 # Split Keyboard 
 
+[[toc]]
+
 Many keyboards in the QMK Firmware repo are "split" keyboards. They use two controllers—one plugging into USB, and the second connected by a serial or an I<sup>2</sup>C connection over a TRRS or similar cable. 
 
 Split keyboards can have a lot of benefits, but there is some additional work needed to get them enabled.  

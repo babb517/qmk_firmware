@@ -1,5 +1,7 @@
 # Coding Conventions (Python)
 
+[[toc]]
+
 Most of our style follows PEP8 with some local modifications to make things less nit-picky. 
 
 * We target Python 3.5 for compatability with all supported platforms.

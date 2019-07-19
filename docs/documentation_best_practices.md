@@ -1,5 +1,7 @@
 # Documentation Best Practices
 
+[[toc]]
+
 This page exists to document best practices when writing documentation for QMK. Following these guidelines will help to keep a consistent tone and style, which will in turn help other people more easily understand QMK.
 
 # Page Opening

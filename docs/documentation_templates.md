@@ -1,5 +1,7 @@
 # Documentation Templates
 
+[[toc]]
+
 This page documents the templates you should use when submitting new Keymaps and Keyboards to QMK.
 
 ## Keymap `readme.md` Template

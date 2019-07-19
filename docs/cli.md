@@ -1,5 +1,7 @@
 # QMK CLI
 
+[[toc]]
+
 This page describes how to setup and use the QMK CLI.
 
 # Overview

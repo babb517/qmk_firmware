@@ -1,5 +1,7 @@
 # ISP Flashing Guide
 
+[[toc]]
+
 If you're having trouble flashing/erasing your board, and running into cryptic error messages like any of the following:
 
     libusb: warning [darwin_transfer_status] transfer error: timed out

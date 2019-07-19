@@ -1,5 +1,7 @@
 # group `midi_device_setup_process` {#group__midi__device__setup__process}
 
+[[toc]]
+
 These are method that you must use to initialize and run a device.
 
 ## Summary

@@ -1,5 +1,7 @@
 # How Keys Are Registered, and Interpreted by Computers
 
+[[toc]]
+
 In this file, you can will learn the concepts of how keyboards work over USB,
 and you'll be able to better understand what you can expect from changing your
 firmware directly.

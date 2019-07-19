@@ -1,5 +1,7 @@
 # Becoming a QMK Collaborator
 
+[[toc]]
+
 A QMK collaborator is a keyboard maker or designer that is interested in helping QMK grow and fully support their keyboard(s), and encouraging their users and customers to submit features, ideas, and keymaps. We're always looking to add more keyboards and collaborators, but we ask that they fulfill these requirements:
 
 * **Have a PCB available for sale.** Unfortunately there's just too much variation and complications with handwired keyboards.

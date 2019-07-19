@@ -1,5 +1,7 @@
 # Tap Dance: A Single Key Can Do 3, 5, or 100 Different Things
 
+[[toc]]
+
 <!-- FIXME: Break this up into multiple sections -->
 
 Hit the semicolon key once, send a semicolon. Hit it twice, rapidly -- send a colon. Hit it three times, and your keyboard's LEDs do a wild dance. That's just one example of what Tap Dance can do. It's one of the nicest community-contributed features in the firmware, conceived and created by [algernon](https://github.com/algernon) in [#451](https://github.com/qmk/qmk_firmware/pull/451). Here's how algernon describes the feature:

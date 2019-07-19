@@ -1,5 +1,7 @@
 # Thermal Printer
 
+[[toc]]
+
 <!-- FIXME: Describe thermal printers support here. -->
 
 ## Thermal Printer Keycodes

@@ -1,5 +1,7 @@
 # QMK Keyboard Guidelines
 
+[[toc]]
+
 Since starting, QMK has grown by leaps and bounds thanks to people like you who contribute to creating and maintaining our community keyboards. As we've grown we've discovered some patterns that work well, and ask that you conform to them to make it easier for other people to benefit from your hard work.
 
 

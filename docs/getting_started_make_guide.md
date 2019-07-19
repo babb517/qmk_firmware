@@ -1,5 +1,7 @@
 # More Detailed `make` Instructions
 
+[[toc]]
+
 The full syntax of the `make` command is `<keyboard_folder>:<keymap>:<target>`, where:
 
 * `<keyboard_folder>` is the path of the keyboard, for example `planck`

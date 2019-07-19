@@ -1,5 +1,7 @@
 # Keycodes Overview
 
+[[toc]]
+
 When defining a [keymap](keymap.md) each key needs a valid key definition. This page documents the symbols that correspond to keycodes that are available to you in QMK.
 
 This is a reference only. Each group of keys links to the page documenting their functionality in more detail.

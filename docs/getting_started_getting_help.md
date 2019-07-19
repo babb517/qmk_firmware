@@ -1,5 +1,7 @@
 # Getting Help
 
+[[toc]]
+
 There are a lot of resources for getting help with QMK.
 
 ## Realtime Chat

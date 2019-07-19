@@ -1,5 +1,7 @@
 # QMK Hardware Drivers
 
+[[toc]]
+
 QMK is used on a lot of different hardware. While support for the most common MCU's and matrix configurations is built-in there are a number of drivers that can be added to a keyboard to support additional hardware. Examples include mice and other pointing devices, i/o expanders for split keyboards, bluetooth modules, and LCD, OLED, and TFT screens.
 
 <!-- FIXME: This should talk about how drivers are integrated into QMK and how you can add your own driver.

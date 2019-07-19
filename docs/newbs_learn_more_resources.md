@@ -1,5 +1,7 @@
 # Learning Resources
 
+[[toc]]
+
 These resources are aimed at giving new members in the QMK community more understanding to the information provided in the Newbs docs.
 
 Git resources:

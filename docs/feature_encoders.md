@@ -1,5 +1,7 @@
 # Encoders
 
+[[toc]]
+
 Basic encoders are supported by adding this to your `rules.mk`:
 
     ENCODER_ENABLE = yes

@@ -1,5 +1,7 @@
 # Debounce algorithm
 
+[[toc]]
+
 QMK supports multiple debounce algorithms through its debounce API.
 
 The logic for which debounce method called is below. It checks various defines that you have set in rules.mk

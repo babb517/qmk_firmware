@@ -1,5 +1,7 @@
 # Keymap FAQ
 
+[[toc]]
+
 This page covers questions people often have about keymaps. If you haven't you should read [Keymap Overview](keymap.md) first.
 
 ## What Keycodes Can I Use?

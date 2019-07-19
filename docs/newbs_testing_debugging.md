@@ -1,5 +1,7 @@
 # Testing and Debugging
 
+[[toc]]
+
 Once you've flashed your keyboard with a custom firmware you're ready to test it out. With a little bit of luck everything will work perfectly, but if not this document will help you figure out what's wrong.
 
 ## Testing

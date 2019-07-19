@@ -1,5 +1,7 @@
 # Flashing Your Keyboard 
 
+[[toc]]
+
 Now that you've built a custom firmware file you'll want to flash your keyboard. 
 
 ## Flashing Your Keyboard with QMK Toolbox

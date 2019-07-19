@@ -1,5 +1,7 @@
 # Terminal
 
+[[toc]]
+
 > This feature is currently *huge* at 4400 bytes, and should probably only be put on boards with a lot of memory, or for fun.
 
 The terminal feature is a command-line-like interface designed to communicate through a text editor with keystrokes. It's beneficial to turn off auto-indent features in your editor.

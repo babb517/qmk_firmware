@@ -1,5 +1,7 @@
 # The Leader Key: A New Kind of Modifier
 
+[[toc]]
+
 If you've ever used Vim, you know what a Leader key is. If not, you're about to discover a wonderful concept. :) Instead of hitting Alt+Shift+W for example (holding down three keys at the same time), what if you could hit a _sequence_ of keys instead? So you'd hit our special modifier (the Leader key), followed by W and then C (just a rapid succession of keys), and something would happen.
 
 That's what `KC_LEAD` does. Here's an example:

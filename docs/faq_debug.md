@@ -1,5 +1,7 @@
 # Debugging FAQ
 
+[[toc]]
+
 This page details various common questions people have about troubleshooting their keyboards.
 
 # Debug Console

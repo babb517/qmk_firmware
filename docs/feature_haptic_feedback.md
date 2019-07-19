@@ -1,5 +1,7 @@
 # Haptic Feedback
 
+[[toc]]
+
 ## Haptic feedback rules.mk options
 
 The following options are currently available for haptic feedback in `rule.mk`:

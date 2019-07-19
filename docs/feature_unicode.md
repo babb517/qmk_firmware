@@ -1,5 +1,7 @@
 # Unicode Support
 
+[[toc]]
+
 Unicode characters can be input straight from your keyboard! There are some limitations, however.
 
 QMK has three different methods for enabling Unicode input and defining keycodes:

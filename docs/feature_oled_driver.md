@@ -1,5 +1,7 @@
 # OLED Driver
 
+[[toc]]
+
 ## OLED Supported Hardware
 
 OLED modules using SSD1306 or SH1106 driver ICs, communicating over I2C.

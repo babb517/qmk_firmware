@@ -1,5 +1,7 @@
 # Advanced Keycodes
 
+[[toc]]
+
 Your keymap can include keycodes that are more advanced than normal, for example keys that switch layers or send modifiers when held, but send regular keycodes when tapped. This page documents the functions that are available to you.
 
 ## Assigning Custom Names

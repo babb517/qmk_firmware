@@ -1,5 +1,7 @@
 # Mouse keys
 
+[[toc]]
+
 Mouse keys is a feature that allows you to emulate a mouse using your keyboard. You can move the pointer at different speeds, press 5 buttons and scroll in 8 directions.
 
 ## Adding mouse keys to your keyboard

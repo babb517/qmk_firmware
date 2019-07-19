@@ -1,5 +1,7 @@
 # Best Practices
 
+[[toc]]
+
 ## Or, "How I Learned to Stop Worrying and Love Git."
 
 This document aims to instruct novices in the best ways to have a smooth experience in contributing to QMK. We will walk through the process of contributing to QMK, detailing some ways to make this task easier, and then later we'll break some things in order to teach you how to fix them.

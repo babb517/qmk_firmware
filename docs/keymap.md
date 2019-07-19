@@ -1,5 +1,7 @@
 # Keymap Overview
 
+[[toc]]
+
 QMK keymaps are defined inside a C source file. The data structure is an array of arrays. The outer array is a list of layer arrays while the inner layer array is a list of keys. Most keyboards define a `LAYOUT()` macro to help you create this array of arrays.
 
 

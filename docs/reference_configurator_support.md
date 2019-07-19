@@ -1,5 +1,7 @@
 # Supporting Your Keyboard in QMK Configurator
 
+[[toc]]
+
 This page covers how to properly support keyboards in the [QMK Configurator](https://config.qmk.fm/).
 
 

@@ -1,5 +1,7 @@
 # Vagrant Quick Start
 
+[[toc]]
+
 This project includes a `Vagrantfile` that will allow you to build a new firmware for your keyboard very easily without major changes to your primary operating system. This also ensures that when you clone the project and perform a build, you have the exact same environment as anyone else using the Vagrantfile to build. This makes it much easier for people to help you troubleshoot any issues you encounter.
 
 ## Requirements

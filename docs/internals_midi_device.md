@@ -1,5 +1,7 @@
 # group `midi_device` {#group__midi__device}
 
+[[toc]]
+
 You use the functions when you are implementing your own midi device.
 
 You set a send function to actually send bytes via your device, this method is called when you call a send function with this device, for instance midi_send_cc

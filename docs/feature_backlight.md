@@ -1,5 +1,7 @@
 # Backlighting
 
+[[toc]]
+
 Many keyboards support backlit keys by way of individual LEDs placed through or underneath the keyswitches. QMK is able to control the brightness of these LEDs by switching them on and off rapidly in a certain ratio, a technique known as *Pulse Width Modulation*, or PWM. By altering the duty cycle of the PWM signal, it creates the illusion of dimming.
 
 The MCU can only supply so much current to its GPIO pins. Instead of powering the backlight directly from the MCU, the backlight pin is connected to a transistor or MOSFET that switches the power to the LEDs.

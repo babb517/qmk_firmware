@@ -1,5 +1,7 @@
 # Bootmagic
 
+[[toc]]
+
 There are three separate but related features that allow you to change the behavior of your keyboard without reflashing. While each of them have similar functionality, it is accessed in different ways depending on how your keyboard is configured.
 
 **Bootmagic** is a system for configuring your keyboard while it initializes. To trigger a Bootmagic command, hold down the Bootmagic key and one or more command keys.

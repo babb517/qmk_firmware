@@ -1,5 +1,7 @@
 # Installing Build Tools
 
+[[toc]]
+
 This page describes setting up the build environment for QMK. These instructions cover AVR processors (such as the atmega32u4).
 
 <!-- FIXME: We should have ARM instructions somewhere. -->

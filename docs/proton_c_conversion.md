@@ -1,5 +1,7 @@
 # Converting a board to use the Proton C
 
+[[toc]]
+
 If a board currently supported in QMK uses a Pro Micro (or compatible board) and you want to use the Proton C, you can generate the firmware by appending `CONVERT_TO_PROTON_C=yes` (or `CTPC=yes`) to your make argument, like this:
 
     make 40percentclub/mf68:default CTPC=yes

@@ -1,5 +1,7 @@
 # QMK Features
 
+[[toc]]
+
 QMK has a staggering number of features for building your keyboard. It can take some time to understand all of them and determine which one will achieve your goal.
 
 

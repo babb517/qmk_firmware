@@ -1,5 +1,7 @@
 # Python Development in QMK
 
+[[toc]]
+
 This document gives an overview of how QMK has structured its python code. You should read this before working on any of the python code.
 
 ## Script directories

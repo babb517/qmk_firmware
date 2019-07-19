@@ -1,5 +1,7 @@
 # Frequently Asked Questions
 
+[[toc]]
+
 ## What is QMK?
 
 [QMK](https://github.com/qmk), short for Quantum Mechanical Keyboard, is a group of people building tools for custom keyboards. We started with the [QMK firmware](https://github.com/qmk/qmk_firmware), a heavily modified fork of [TMK](https://github.com/tmk/tmk_keyboard).

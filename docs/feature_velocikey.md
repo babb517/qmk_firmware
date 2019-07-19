@@ -1,5 +1,7 @@
 # Velocikey
 
+[[toc]]
+
 Velocikey is a feature that lets you control the speed of lighting effects (like the Rainbow Swirl effect) with the speed of your typing. The faster you type, the faster the lights will go!
 
 ## Usage

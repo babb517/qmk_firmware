@@ -1,5 +1,7 @@
 # group `input_callback_reg` {#group__input__callback__reg}
 
+[[toc]]
+
 These are the functions you use to register your input callbacks.
 
 The functions are called when the appropriate midi message is matched on the associated device's input.
